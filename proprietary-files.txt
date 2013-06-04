@@ -1,3 +1,4 @@
+lib/libasound.so
 lib/libcald_pal.so
 lib/libcamera_client.so
 lib/libcameraextensionjni.so
